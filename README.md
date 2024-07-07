@@ -23,11 +23,11 @@
 
 - **LeetCode:** [DINESH S](https://leetcode.com/u/DINESH-2020/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananth127" alt="ananth127" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DINESH-2020" alt="DINESH-2020" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DINESH-2020&show_icons=true&locale=en&layout=compact" alt="ananth127" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DINESH-2020&show_icons=true&locale=en&layout=compact" alt="DINESH-2020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DINESH-2020&show_icons=true&locale=en" alt="ananth127" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DINESH-2020&show_icons=true&locale=en" alt="DINESH-2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DINESH-2020&" alt="DINESH-2020" /></p>
 
